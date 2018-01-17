@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DEVChallenge</string>
+    <string name="greetings_text">what\'s up?</string>
 </resources>
